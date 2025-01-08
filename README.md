@@ -13,3 +13,8 @@ HTML5: For creating the structure of the web application.
 CSS3: For styling the application and making it visually appealing.
 JavaScript: For adding interactivity and managing chat functionalities.
 
+🧑‍💻 Author
+Hasibur Rahaman
+
+LinkedIn: linkedin.com/in/hasibur-rahaman
+GitHub: github.com/Hasibur123
